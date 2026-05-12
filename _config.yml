@@ -183,16 +183,17 @@ content:
         title: Imperial College London
         caption: Octubre 2012 - Septiembre 2013</br><mark>Londres, Reino Unido</mark> 
         sub_title: MSc Traducción Científica, Médica y Técnica con Tecnología de la Traducción
+        description: | # this will include new lines to allow paragraphs
+          Durante mi tiempo en Imperial College London (ICL) adquirí habilidades técnicas específicas de mi campo relacionadas con <mark>tecnología de la traducción</mark>.
+          
+          Gestión de proyectos, herramientas de traducción asistida por ordenador (CAT) o Traducción Automática fueron algunos de los temas que se conectaron más estrechamente con el mundo profesional.
 
       - layout: left
         title: University of Westminster
         caption: Septiembre 2009 - Mayo 2012</br><mark>Londres, Reino Unido</mark> 
         sub_title: Grado en Traducción (Español-Inglés)
-
-      - layout: left
-        title: Formación técnica reciente
-        caption: 2022 - 2023</br><mark>Madrid, España</mark> 
-        sub_title: Desarrollo software y datos
+        description: | # this will include new lines to allow paragraphs
+          El realizar un Grado en Traducción en la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
