@@ -49,9 +49,9 @@ linkedin_username: albertogomezmartin
 # about_title: Sobre mi
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-    Profesional con perfil híbrido en tecnología, comunicación y coordinación de proyectos en entornos internacionales.
+    Profesional con perfil híbrido en tecnología, comunicación y coordinación de proyectos en <mark>entornos internacionales</mark>.
 
-    A lo largo de mi trayectoria he trabajado con equipos multidisciplinares facilitando la adaptación de productos digitales a distintos contextos culturales, contribuyendo a mejorar el acceso a la información a nivel global.
+    A lo largo de mi trayectoria he trabajado con <mark>equipos multidisciplinares</mark> facilitando la adaptación de productos digitales a distintos <mark>contextos culturales</mark>, contribuyendo a mejorar el acceso a la información a nivel global.
 
     Mi experiencia combina ingeniería de software, análisis técnico y gestión de proyectos con una fuerte orientación a la colaboración, la comunicación y la resolución de problemas complejos.
 
@@ -193,7 +193,11 @@ content:
         caption: Septiembre 2009 - Mayo 2012</br><mark>Londres, Reino Unido</mark> 
         sub_title: Grado en Traducción (Español-Inglés)
         description: | # this will include new lines to allow paragraphs
+<<<<<<< HEAD
         El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
+=======
+          El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
+>>>>>>> v1
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
