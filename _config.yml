@@ -46,7 +46,7 @@ linkedin_username: albertogomezmartin
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: Sobre mi
+about_title: Sobre mi
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
     Profesional con perfil híbrido en tecnología, comunicación y coordinación de proyectos en <mark>entornos internacionales</mark>.
@@ -195,7 +195,11 @@ content:
         description: | # this will include new lines to allow paragraphs
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
+=======
+          El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
+>>>>>>> v1
 =======
           El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
 >>>>>>> v1
