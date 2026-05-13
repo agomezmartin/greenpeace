@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     Mi experiencia combina ingeniería de software, análisis técnico y gestión de proyectos con una fuerte orientación a la colaboración, la comunicación y la resolución de problemas complejos.
 
-    En los últimos años he orientado mi desarrollo hacia proyectos con impacto social, manteniendo un interés activo en iniciativas relacionadas con sostenibilidad, cooperación y participación ciudadana.
+    En los últimos años he orientado mi desarrollo hacia <mark>proyectos con impacto social</mark>, manteniendo un interés activo en iniciativas relacionadas con sostenibilidad, cooperación y participación ciudadana.
 
 content:
 
@@ -194,7 +194,11 @@ content:
         sub_title: Grado en Traducción (Español-Inglés)
         description: | # this will include new lines to allow paragraphs
 <<<<<<< HEAD
+<<<<<<< HEAD
         El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
+=======
+          El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
+>>>>>>> v1
 =======
           El Grado en Traducción de la Universidad de Westminster me permitió desarrollar no solo habilidades de traducción directa e indirecta, sino también estudios sobre conciencia intercultural.
 >>>>>>> v1
